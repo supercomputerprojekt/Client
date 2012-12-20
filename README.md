@@ -1,4 +1,4 @@
 Client
 ======
 
-This is the Gimini  Client-Program
+Runs currently only under Unix.
